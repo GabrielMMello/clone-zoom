@@ -159,6 +159,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 > Veja o arquivo  [package.json](https://github.com/GabrielMMello/clone-zoom/blob/main/peer-server/package.json)
 
+#### **Deploy**  ([Heroku](https://www.heroku.com/))
+
 #### **Utilidades**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
