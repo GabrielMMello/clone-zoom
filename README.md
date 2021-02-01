@@ -151,11 +151,11 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 > Veja o arquivo  [package.json](https://github.com/GabrielMMello/clone-zoom/blob/main/public/package.json)
 
-#### **Servidor com socket.io**  ([Socket.IO](https://socket.io/)
+#### **Servidor com socket.io**  ([Socket.IO](https://socket.io/))
 
 > Veja o arquivo  [package.json](https://github.com/GabrielMMello/clone-zoom/blob/main/server/package.json)
 
-#### **Servidor peer**  ([Peer JS](https://peerjs.com/)
+#### **Servidor peer**  ([Peer JS](https://peerjs.com/))
 
 > Veja o arquivo  [package.json](https://github.com/GabrielMMello/clone-zoom/blob/main/peer-server/package.json)
 
